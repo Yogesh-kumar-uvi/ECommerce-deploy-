@@ -3,8 +3,8 @@
 /frontend/node_modules
 
 # Ignore environment files in both backend and frontend
-/backend/.env
-/frontend/.env
+# /backend/.env
+# /frontend/.env
 
 
 # Ignore OS-specific files
